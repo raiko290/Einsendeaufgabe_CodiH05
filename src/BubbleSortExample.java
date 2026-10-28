@@ -1,5 +1,5 @@
 public class BubbleSortExample {
-    static void bubbleSort(int[] liste) {
+    static void bubbleSortInt(int[] liste) {
         int n = liste.length;
         int temp = 0;
         boolean getauscht; // <-- Annas Optimierung
